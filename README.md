@@ -59,7 +59,7 @@ To run the project on your local machine, follow these simple steps:
 
 Clone the Repository
 
-git clone https://github.com/your-jeevajothiga/naan_mudhalvan_bigdata.git
+git clone https://github.com/jeevajothiga/naan_mudhalvan_bigdata.git
 
 Install Dependencies
 Install the necessary Python libraries:
