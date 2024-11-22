@@ -1,3 +1,10 @@
+Project Name: Student Performance Analysis Using Python
+
+Description:
+Developed a Python-based data analysis tool to explore and visualize student performance metrics using Pandas and Matplotlib.
+Implemented functionalities for calculating subject-wise average marks, identifying high-performing students, and analyzing grade distributions.
+Presented insights through bar and pie charts, demonstrating proficiency in data manipulation, aggregation, and visualization techniques.
+    
 !pip install matplotlib
 !pip install pandas
 import pandas as pd
